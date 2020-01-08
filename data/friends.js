@@ -1,4 +1,4 @@
-var friends = [
+var friendsArray = [
     {
     name: "Leslie",
     photo: "https://upload.wikimedia.org/wikipedia/en/thumb/3/34/Leslie_Knope_%28played_by_Amy_Poehler%29.png/240px-Leslie_Knope_%28played_by_Amy_Poehler%29.png",
@@ -21,4 +21,5 @@ var friends = [
     }
 ];
 
-module.exports = friends;
+module.exports = friendsArray;
+    
