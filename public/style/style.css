@@ -1,5 +1,46 @@
 .jumbotron {
-    width: 50%;
+    width: 100%;
     text-align: center;
     margin: auto;
+    background: url(images/wildflowers.png)!important;
+    background-repeat: no-repeat!important;
+    background-size: cover!important;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+}
+
+footer {
+    float: left;
+    margin-top: 20px;
+}
+
+body {
+    background: url(images/leaves.png)!important;
+}
+
+#survey-body {
+    background: rgb(255, 255, 255, .6);
+    font-family: Arial, Helvetica, sans-serif;
+    border: 1px solid black;
+    
+}
+
+#header {
+    text-align: center;
+}
+
+h3 {
+    text-decoration: underline;
+}
+
+#submit {
+    margin: 20px 0px 20px 0px;
+}
+
+option {
+    width: 50%!important;
+}
+
+.lead {
+    font-weight: bold!important;
 }
