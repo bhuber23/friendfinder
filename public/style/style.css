@@ -44,3 +44,7 @@ option {
 .lead {
     font-weight: bold!important;
 }
+
+audio {
+    margin-top: 10px;
+}
